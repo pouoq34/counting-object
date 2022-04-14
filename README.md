@@ -2,6 +2,8 @@
 
 
 
-yolo v5 : plates detect
+plates detect using yolo v5
+https://github.com/ultralytics/yolov5
 
-deepsort : plate tracking
+plates tracking using deepsort
+https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
